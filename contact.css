@@ -1,0 +1,22 @@
+#he1{
+    color: darkblue;
+    text-align: center;
+}
+#he2{
+    color: darkgoldenrod;
+    text-align: center;
+}
+#form{
+    height:250px; 
+    width: 350px;;
+    color: rgb(31, 30, 30);
+    background: rgb(68, 170, 221);
+    align-items: center;
+    left: 50%;
+    top: 40%;
+    margin-left: -14%;
+    position: absolute;
+margin-top: -10%;
+text-align: center;
+text-overflow: clip;
+}
